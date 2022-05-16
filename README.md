@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kekeli 
-- 👀 I’m interested in cybersecurity,networking,coding...in that order
+- 👀 I’m interested in coding...
 - 🌱 I’m currently learning ...Python,JavaScript
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m a beginner NodeJS developer.
 - 📫 How to reach me ...keknorgbey@yahoo.com
 
 <!---
