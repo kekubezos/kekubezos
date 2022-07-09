@@ -1,7 +1,9 @@
-- 👋 Hi, I’m Mayfred Norgbey Kekeli 
-- 👀 I’m an upcoming software engineer...
-- 🌱 I’m currently learning ...Python,JavaScript
+- 👋 Hello world, My name is Mayfred Norgbey Kekeli 
+- 👀 I am a software engineer and web developer...
+- 🌍I am a Computer Engineering graduate from Ghana.
+- 💪 I am a backend heavy fullstack web developer with Flask and NodeJS proficiencies.
 - 💞️ I use Flask and NodeJS to build APIs and web servers.
+- 🌱 I am currently learning Docker and Kubernetes for application deployment.
 - 📫 How to reach me ...keknorgbey@yahoo.com or mayfred.norgbey@outlook.com
 
 <!---
