@@ -1,8 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mayfred Kekeli Norgbey
-==============================================================================================================================================
+Hi 👋 My name is Mayfred Kekeli Norgbey
+=======================================
 
 Backend web developer and software engineer
 -------------------------------------------
+
+Tech enthusiast. Backend developer using Python. En route to becoming a full stack web developer and DevOps engineer.
 
 * 🌍  I'm based in Tema, Ghana
 * ✉️  You can contact me at [mayfred.norgbey@outlook.com](mailto:mayfred.norgbey@outlook.com )
