@@ -1,15 +1,16 @@
 Hi 👋 My name is Mayfred Kekeli Norgbey
 =======================================
-
-Backend web developer and software engineer
+Cloud Engineer,
+Upcoming Data Engineer and Data Analyst
 -------------------------------------------
 
-Tech enthusiast. Backend developer using Python. En route to becoming a full stack web developer and DevOps engineer.
+Tech enthusiast. I love making meaning out of big data. Data Analyst using Python, SQL, and Tableau. En route to becoming a Data Engineer and Analyst.
 
 * 🌍  I'm based in Tema, Ghana
 * ✉️  You can contact me at [mayfred.norgbey@outlook.com](mailto:mayfred.norgbey@outlook.com )
-* 🧠  I'm learning Docker for containerizing apps for deployment on cloud platforms like AWS and Azure.
-* 🤝  I'm open to collaborating on Backend projects built using Python, Flask and SQLAlchemy
+* 🧠  I'm learning Data Analytics with Cisco Skills for All and Data Science with Udacity.
+*  Quite experienced in Docker, Basic Linux, Kubernetes and Jenkins.
+* 🤝  I'm open to collaborating on Data Analytics projects built using Python, SQL, R and Tableau.
 
 ### Skills
 
