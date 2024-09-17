@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is MAYFRED KEKELI NORGBEY
 ==============================================================================================================================================
 
-Upcoming Data Engineer and Data Analyst
+Data Engineer, Data Analyst, Machine Learning Intern and Cloud Engineer
 ---------------------------------------
 
 Tech enthusiast. I love making meaning out of big data. Data Analyst using Python, SQL, and Tableau. En route to becoming a Data Engineer and Analyst. Quite experienced in Cloud Development Operations using Basic Linux, Docker, Kubernetes and Jenkins.
