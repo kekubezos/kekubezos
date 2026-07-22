@@ -6,7 +6,7 @@ Data Engineer, Data Analyst, Machine Learning Intern and Cloud Engineer
 
 Tech enthusiast. I love making meaning out of big data. Data Analyst using Python, SQL, and Tableau. En route to becoming a Data Engineer and Analyst. Quite experienced in Cloud Development Operations using Basic Linux, Docker, Kubernetes and Jenkins.
 
-* 🌍  I'm based in Ghana
+* 🌍  I'm based in Berlin, Germanv
 * ✉️  You can contact me at [keknorgbey@yahoo.com](mailto:keknorgbey@yahoo.com)
 * 🧠  I'm learning Data Analytics Essentials at Cisco Skills for All Academy.
 * 🤝  I'm open to collaborating on interesting Data Analytics and Data Science projects built with Python, SQL, R and Tableau.
