@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mayfred Kekeli Norgbey</h1>
-<h3 align="center">Tech enthusiast. I love making meaning out of big data. Data Analyst using Python, SQL, and Tableau/ Looker. A Data Scientist.</h3>
+<h3 align="center">Tech enthusiast. I love making meaning out of big data. 
+  Data Analyst using Python, SQL, and Tableau/ Looker.
+  A Data Scientist.</h3>
 
 - 📫 How to reach me **kekelinorgbey@gmail.com**
 
