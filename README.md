@@ -48,6 +48,18 @@
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;&nbsp;&nbsp;![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+## 📊 GitHub Stats & Activity
+
+<div align="center">
+
+<!-- GitHub Stats Card: GitHub username required -->
+
+<!-- Top Skills Card: GitHub username required -->
+
+<!-- GitHub Streak Stats: GitHub username required -->
+
+</div>
+
 ---
 
 <div align="center">
